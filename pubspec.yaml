@@ -1,0 +1,40 @@
+name: pousadaapp
+description: "Aplicativo para controle de reservas da Pousada Acalanto, desenvolvido durante a disciplina de Projeto Integrador V-A."
+publish_to: 'none'
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.9.2
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  # Banco de Dados e Armazenamento
+  sqflite: ^2.3.0
+  path: ^1.9.0
+
+  # Formatação de Datas, Moedas e Máscaras de Input (CPF, Telefone)
+  intl: ^0.19.0
+  mask_text_input_formatter: ^2.9.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+  flutter_launcher_icons: ^0.13.1 # Para o ícone do app.
+
+# Configuração do Ícone do Aplicativo
+flutter_launcher_icons:
+  android: "launcher_icon"
+  ios: true
+  image_path: "assets/icon/icon.png"
+  min_sdk_android: 21
+  adaptive_icon_background: "#FFFFFF"
+  adaptive_icon_foreground: "assets/icon/icon.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/icon/icon.png
