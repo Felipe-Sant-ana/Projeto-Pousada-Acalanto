@@ -113,7 +113,7 @@ A implantação do aplicativo trouxe impactos imediatos na organização da Pous
 
 1. **Clone o repositório** (ou baixe os arquivos):
    ```bash
-   git clone [LINK_DO_SEU_GIT]
+   git clone https://github.com/Felipe-Sant-ana/Projeto-Pousada-Acalanto.git
    ```
 
 2. **Instale as dependências:**
