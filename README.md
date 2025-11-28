@@ -19,7 +19,7 @@ até o faturamento financeiro, garantindo integridade de dados e prevenindo erro
 
 ## Vídeo de Demonstração
 
-Abaixo está um vídeo demonstrando as principais telas da aplicação em funcionamento e outras funcionalidades:
+Clique na imagem abaixo para ver o vídeo demonstrando das principais telas da aplicação em funcionamento e outras funcionalidades:
 
 [![Assista ao Vídeo Demonstrativo](https://img.youtube.com/vi/OESX0HvtBTU/0.jpg)](https://www.youtube.com/watch?v=OESX0HvtBTU)
 ---
